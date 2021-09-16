@@ -11,6 +11,8 @@ This project is a web application for Delani studios that shows details about th
 ## Live Page 
 
 
+https://leon-mwangi15.github.io/delani-studios/
+
 
 ## Technologies Used
 
