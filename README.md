@@ -18,7 +18,7 @@ This project is a web application for Delani studios that shows details about th
 * [CSS](https://github.com/topics/css3)
 * [Bootstrap](https://github.com/topics/bootstrap)
 * [jQuery](https://github.com/topics/javascript)
-* markdown
+
 
 
 
